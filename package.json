@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-gogu",
+  "version": "1.0.0",
+  "description": "Style guide config for dev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elemefe/style-guide.git"
+  },
+  "keywords": [
+    "eslint",
+    "style-guide"
+  ],
+  "author": "elemefe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elemefe/style-guide/issues"
+  },
+  "homepage": "https://github.com/elemefe/style-guide#readme"
+}
