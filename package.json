@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/elemefe/style-guide/issues"
   },
-  "homepage": "https://github.com/elemefe/style-guide#readme"
+  "homepage": "https://github.com/elemefe/style-guide#readme",
+  "devDependencies": {
+    "yamljs": "^0.2.8"
+  }
 }
