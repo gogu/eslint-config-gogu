@@ -20,7 +20,8 @@
     "url": "https://github.com/elemefe/style-guide/issues"
   },
   "homepage": "https://github.com/elemefe/style-guide#readme",
-  "devDependencies": {
-    "yamljs": "^0.2.8"
+  "devDependencies": {},
+  "dependencies": {
+    "js-yaml": "^3.6.1"
   }
 }

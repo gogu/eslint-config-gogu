@@ -3,7 +3,7 @@
 ## Install && Usage
 
 ```shell
-$ npm install eslint github:gogu/eslint-plugin-gogu
+$ npm install eslint github:gogu/eslint-config-gogu
 ```
 
 .eslintrc
@@ -21,7 +21,7 @@ $ npm install eslint github:gogu/eslint-plugin-gogu
 - 强制 strict mode
 - 两空格缩进
 - 一般情况强制单引号，允许 ES6 反引号字符模板，允许单双引号嵌套
-- 强制语句结尾分号（`function`, `Class`, `for`, `while`, `if`, `switch`, `try` 除外)
+- 强制语句结尾分号（`function`, `class`, `for`, `while`, `if`, `switch`, `try` 除外)
 - 单行代码块前后强制空格
 - 逗号前禁止空格，后强制空格
 - 对象字面量键值冒号前禁止空格，后强制空格
