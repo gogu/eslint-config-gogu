@@ -1,4 +1,4 @@
-# eslint-plugin-gogu
+# eslint-config-gogu
 
 ## Install && Usage
 
